@@ -1,4 +1,7 @@
 # Kecmatch
+
+[Use](https://github.com/iowar/kecmatch-gpu) gpu version if you have a nvidia card.
+
 Finds matching solidity function signatures, i.e. method ID.
 # Build
 ~~~sh
